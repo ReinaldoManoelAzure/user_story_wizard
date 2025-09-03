@@ -201,7 +201,7 @@ def main():
 Gestores administrativos terão acesso a relatórios financeiros consolidados."""
     )
 
-    st.subheader("📎 Anexe documentos de apoio (mini-RAG)")
+    st.subheader("📎 Anexe documentos de apoio")
     arquivos = st.file_uploader(
         "Envie arquivos (docx, pdf, txt, xml, json)",
         type=["docx", "pdf", "txt", "xml", "json"],
