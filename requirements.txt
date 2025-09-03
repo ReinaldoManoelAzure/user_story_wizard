@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain-core 
+langchain-openai 
+openai 
+tiktoken 
+PyPDF2 
+docx2txt 
+python-docx 
